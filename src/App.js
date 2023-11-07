@@ -13,6 +13,7 @@ function App() {
     </div>
   );
 }
-//4 PM TUE/THR/Style the rest of the components.
 
 export default App;
+//To add the tags for the profile component, 
+//just the profile, you don't need to add the post (the small profile pic and the text)

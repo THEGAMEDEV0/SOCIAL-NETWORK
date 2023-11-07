@@ -1,5 +1,9 @@
 .Navbar{
     grid-area: N;
     background-color: #6F9283;
+    display: flex;
+    flex-direction: column;
+   align-items: left;
   }
+
   

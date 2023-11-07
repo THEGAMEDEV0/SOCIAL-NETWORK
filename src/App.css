@@ -10,6 +10,7 @@ body{
   "H H"
   "N P"
   ;
+  grid-template-columns: 1fr 4fr ;
   
 }
 .Profile{
